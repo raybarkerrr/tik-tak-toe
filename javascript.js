@@ -1,6 +1,8 @@
 //let userInput = prompt("Rock, Paper, or Scissors?");
 
-let computerChoice = Math.ceil(Math.random() );
+let computerChoice = Math.ceil(Math.random() * 3);
+
+
 
 
 
